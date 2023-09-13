@@ -36,7 +36,7 @@
 </tr>
 <tr>
 <td>3</td>
-<td>Manene</td>
+<td>Manene</td>   
 <td>Marlene</td>
 <td>Activo</td>
 </tr>
