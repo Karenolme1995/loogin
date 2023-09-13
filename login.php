@@ -40,9 +40,16 @@
 <td>Marlene</td>
 <td>Activo</td>
 </tr>
+<tr>
+<td>4</td>
+<td>crjs</td>
+<td>Cesar</td>
+<td>Activo</td>
+</tr>
 </table>
 <!------------------------------------------------------->   
   <!----------------TERMINA LA TABLA--------------------->
   
+
 </body>
 
