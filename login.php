@@ -34,6 +34,12 @@
 <td>Roberto</td>
 <td>Activo</td>
 </tr>
+<tr>
+<td>3</td>
+<td>Manene</td>
+<td>Marlene</td>
+<td>Activo</td>
+</tr>
 </table>
 <!------------------------------------------------------->   
   <!----------------TERMINA LA TABLA--------------------->
